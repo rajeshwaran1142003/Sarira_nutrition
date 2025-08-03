@@ -82,9 +82,13 @@ const FAQ = () => {
           <p className="text-white/80 mb-4">
             Still have questions?
           </p>
-          <button className="bg-[#E38A30] hover:bg-[#E38A30]/90 text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105">
+          <a 
+            href="/faqs" 
+            target="_blank"
+            className="inline-block bg-[#E38A30] hover:bg-[#E38A30]/90 text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105"
+          >
             Contact Us
-          </button>
+          </a>
         </div>
       </div>
     </section>

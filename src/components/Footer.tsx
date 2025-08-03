@@ -74,12 +74,12 @@ const Footer = () => {
             </h3>
             <ul className="space-y-3">
               <li>
-                <a href="#" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
+                <a href="/faqs" target="_blank" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
                   FAQs
                 </a>
               </li>
               <li>
-                <a href="#" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
+                <a href="/shipping-delivery" target="_blank" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
                   Shipping & Returns
                 </a>
               </li>
@@ -89,12 +89,12 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="#" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
+                <a href="/privacy-policy" target="_blank" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
                   Privacy Policy
                 </a>
               </li>
               <li>
-                <a href="#" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
+                <a href="/terms-of-service" target="_blank" className="text-white/80 hover:text-[#E38A30] transition-colors duration-300">
                   Terms of Service
                 </a>
               </li>
@@ -139,14 +139,14 @@ const Footer = () => {
               © 2025 SARIRA Wellness. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
-              <a href="#" className="text-white/60 hover:text-[#E38A30] transition-colors duration-300">
+              <a href="/privacy-policy" target="_blank" className="text-white/60 hover:text-[#E38A30] transition-colors duration-300">
                 Privacy Policy
               </a>
-              <a href="#" className="text-white/60 hover:text-[#E38A30] transition-colors duration-300">
+              <a href="/terms-of-service" target="_blank" className="text-white/60 hover:text-[#E38A30] transition-colors duration-300">
                 Terms of Service
               </a>
-              <a href="#" className="text-white/60 hover:text-[#E38A30] transition-colors duration-300">
-                Cookie Policy
+              <a href="/returns-refunds" target="_blank" className="text-white/60 hover:text-[#E38A30] transition-colors duration-300">
+                Returns & Refunds
               </a>
             </div>
           </div>
